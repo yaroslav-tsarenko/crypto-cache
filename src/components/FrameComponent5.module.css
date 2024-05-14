@@ -1,0 +1,537 @@
+.categories {
+  width: 113px;
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: Montserrat;
+  font-size: 20px;
+  background-color: transparent;
+  height: 28px;
+  position: relative;
+  line-height: 28px;
+  font-weight: 700;
+  color: #2e2d2d;
+  text-align: left;
+  padding: 0;
+}
+.iconMinus {
+  height: 24px;
+  width: 24px;
+  position: relative;
+}
+.categoriesParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.accordionHeader {
+  align-self: stretch;
+  border-bottom: 1px solid #2e2d2d;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 14px;
+}
+.accessories100,
+.altCoinBuy,
+.brands15 {
+  position: relative;
+  line-height: 24px;
+}
+.brands15 {
+  display: inline-block;
+  min-width: 87px;
+}
+.gpuMiner20 {
+  display: inline-block;
+  min-width: 122px;
+}
+.gpuMiner20,
+.hostingPackages25,
+.mmu10 {
+  position: relative;
+  line-height: 24px;
+}
+.hostingPackages25 {
+  color: #2e2d2d;
+}
+.mmu10 {
+  display: inline-block;
+  min-width: 75px;
+}
+.gpuMiner201 {
+  display: inline-block;
+  min-width: 122px;
+}
+.gpuMiner201,
+.uncategorized40 {
+  position: relative;
+  line-height: 24px;
+}
+.accessories100Parent,
+.filter {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.filter {
+  align-self: stretch;
+  border-radius: 8px;
+}
+.priceRange {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  min-width: 127px;
+}
+.iconMinus1 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.iconMinusWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.accordionHeader1,
+.priceRangeParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.priceRangeParent {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.accordionHeader1 {
+  align-self: stretch;
+  border-bottom: 1px solid #2e2d2d;
+  box-sizing: border-box;
+  justify-content: flex-start;
+  padding: 0 0 14px;
+}
+.div {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 71px;
+}
+.frameInput {
+  margin: 0;
+  height: 22px;
+  width: 20px;
+}
+.parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.div1 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 81px;
+}
+.frameInput1 {
+  margin: 0;
+  height: 22px;
+  width: 20px;
+}
+.group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.div2 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 92px;
+}
+.frameInput2 {
+  margin: 0;
+  height: 22px;
+  width: 20px;
+}
+.container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.div3 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 97px;
+}
+.checkboxIcon {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  border-radius: 4px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.checkboxWrapper,
+.frameDiv {
+  display: flex;
+  align-items: flex-start;
+}
+.checkboxWrapper {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+}
+.frameDiv {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  color: #2e2d2d;
+}
+.div4 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 98px;
+}
+.frameInput3 {
+  margin: 0;
+  height: 22px;
+  width: 20px;
+}
+.parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.div5 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 51px;
+}
+.frameInput4 {
+  margin: 0;
+  height: 22px;
+  width: 20px;
+}
+.frameGroup,
+.parent2,
+.priceFilter {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frameGroup,
+.priceFilter {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 16px;
+  color: #727274;
+}
+.priceFilter {
+  border-radius: 8px;
+  max-width: 100%;
+  font-size: 20px;
+  color: #2e2d2d;
+}
+.button {
+  height: 40px;
+  flex: 1;
+}
+.button1 {
+  align-self: stretch;
+  flex: 1;
+}
+.buttonParent,
+.filterParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.buttonParent {
+  width: 168px;
+  height: 40px;
+  flex-direction: row;
+  gap: 16px;
+}
+.filterParent {
+  width: 350px;
+  flex-direction: column;
+  gap: 32px;
+  max-width: 100%;
+}
+.hostingPackages,
+.sortBy {
+  position: relative;
+  line-height: 28px;
+}
+.sortBy {
+  line-height: 24px;
+  display: inline-block;
+  min-width: 57px;
+}
+.frameFormcontrol {
+  height: 40px;
+  flex: 1;
+  font-family: Montserrat;
+  font-size: 14px;
+  color: #727274;
+  width: auto;
+}
+.sortByParent,
+.sorter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.sortByParent {
+  width: 253px;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 16px;
+}
+.sorter {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.z2010w301n001172bp11No,
+.z2010w301n001172bp11No1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 118px);
+  width: 154px;
+}
+.z2010w301n001172bp11No1 {
+  left: calc(50% - 36px);
+  z-index: 1;
+}
+.z2010w301n001172bp11NoParent {
+  height: 251px;
+  flex: 1;
+  position: relative;
+}
+.emojiLightningSymbol {
+  height: 12px;
+  width: 6.2px;
+  position: relative;
+}
+.bestSeller {
+  align-self: stretch;
+  position: relative;
+  line-height: 16px;
+}
+.productImage,
+.tags {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.tags {
+  height: 32px;
+  border-radius: 0 8px 8px 0;
+  background-color: #2e2d2d;
+  display: none;
+  align-items: center;
+  padding: 8px 12px;
+  box-sizing: border-box;
+  gap: 8px;
+  white-space: nowrap;
+}
+.productImage {
+  align-self: stretch;
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  padding: 34px 62px 35px;
+  background-image: url(/public/product-image1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.hostingPackage,
+.hostingPackageFor {
+  align-self: stretch;
+  position: relative;
+  line-height: 16px;
+}
+.hostingPackageFor {
+  font-size: 18px;
+  line-height: 28px;
+  color: #2e2d2d;
+}
+.vatApplicableOn {
+  align-self: stretch;
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+}
+.b {
+  position: relative;
+  font-size: 20px;
+  line-height: 28px;
+  font-family: Inter;
+  color: #2e2d2d;
+}
+.hostingPackageParent,
+.product,
+.productParent {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.hostingPackageParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  color: #727274;
+  font-family: Montserrat;
+}
+.product,
+.productParent {
+  max-width: 100%;
+}
+.product {
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.productParent {
+  align-self: stretch;
+  display: grid;
+  flex-direction: row;
+  gap: 37px;
+  grid-template-columns: repeat(3, minmax(270px, 1fr));
+  font-size: 12px;
+  color: #fff;
+  font-family: Inter;
+}
+.sorterParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+.frameContainer,
+.frameParent,
+.productGroup,
+.sorterParent {
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.productGroup {
+  align-self: stretch;
+  display: grid;
+  flex-direction: row;
+  gap: 37px;
+  grid-template-columns: repeat(3, minmax(270px, 1fr));
+}
+.frameContainer,
+.frameParent {
+  display: flex;
+}
+.frameContainer {
+  flex: 1;
+  flex-direction: column;
+  gap: 64px;
+  min-width: 750px;
+  font-size: 18px;
+  color: #2e2d2d;
+}
+.frameParent {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 32px;
+  text-align: left;
+  font-size: 16px;
+  color: #727274;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1300px) {
+  .frameContainer {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .productGroup,
+  .productParent {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(270px, 468px));
+  }
+  .frameContainer {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .sorter {
+    flex-wrap: wrap;
+  }
+  .productParent {
+    gap: 18px;
+    grid-template-columns: minmax(270px, 1fr);
+  }
+  .sorterParent {
+    gap: 16px;
+  }
+  .productGroup {
+    gap: 18px;
+    grid-template-columns: minmax(270px, 1fr);
+  }
+  .frameContainer,
+  .frameParent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .categories,
+  .priceRange {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .filterParent {
+    gap: 16px;
+  }
+  .productImage {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .b {
+    font-size: 16px;
+    line-height: 22px;
+  }
+}

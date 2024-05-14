@@ -1,0 +1,97 @@
+.z2010w301n001172bp11No {
+  align-self: stretch;
+  width: 154px;
+  position: relative;
+}
+.emojiLightningSymbol {
+  height: 12px;
+  width: 6.2px;
+  position: relative;
+}
+.bestSeller {
+  align-self: stretch;
+  position: relative;
+  line-height: 16px;
+}
+.productImage,
+.tags {
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.tags {
+  height: 32px;
+  border-radius: 0 8px 8px 0;
+  background-color: #2e2d2d;
+  display: none;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 8px 12px;
+  gap: 8px;
+  white-space: nowrap;
+}
+.productImage {
+  align-self: stretch;
+  height: 320px;
+  border-radius: 8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 35px 20px 34px;
+  background-image: url(/public/product-image@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.hostingPackage,
+.hostingPackageFor {
+  align-self: stretch;
+  position: relative;
+  line-height: 16px;
+}
+.hostingPackageFor {
+  font-size: 18px;
+  line-height: 28px;
+  color: #2e2d2d;
+}
+.vatApplicableOn {
+  align-self: stretch;
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+}
+.b {
+  position: relative;
+  font-size: 20px;
+  line-height: 28px;
+  font-family: Inter;
+  color: #2e2d2d;
+}
+.hostingPackageParent,
+.product {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.hostingPackageParent {
+  align-self: stretch;
+  color: #727274;
+  font-family: Montserrat;
+}
+.product {
+  border-radius: 16px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .b {
+    font-size: 16px;
+    line-height: 22px;
+  }
+}

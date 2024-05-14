@@ -1,0 +1,30 @@
+.enjoyPromotionalDiscount {
+  position: relative;
+  line-height: 24px;
+}
+.banner,
+.home {
+  display: flex;
+  align-items: flex-start;
+}
+.banner {
+  align-self: stretch;
+  background-color: #2e2d2d;
+  flex-direction: row;
+  justify-content: center;
+  padding: 16px 20px;
+}
+.home {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Montserrat;
+}

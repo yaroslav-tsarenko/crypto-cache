@@ -1,0 +1,65 @@
+.fortifiedSecurityFor,
+.ofMind {
+  margin: 0;
+}
+.fortifiedSecurityForContainer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.atCryptocacheSecurity {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.fortifiedSecurityContainers,
+.fortifiedSecurityContent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.fortifiedSecurityContent {
+  align-self: stretch;
+  gap: 32px;
+}
+.fortifiedSecurityContainers {
+  flex: 1;
+  padding: 97px 0 0;
+  box-sizing: border-box;
+  min-width: 473px;
+  text-align: left;
+  font-size: 36px;
+  color: #2e2d2d;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 825px) {
+  .fortifiedSecurityForContainer {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .fortifiedSecurityContent {
+    gap: 16px;
+  }
+  .fortifiedSecurityContainers {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .fortifiedSecurityForContainer {
+    font-size: 22px;
+    line-height: 24px;
+  }
+  .fortifiedSecurityContainers {
+    padding-top: 63px;
+    box-sizing: border-box;
+  }
+}

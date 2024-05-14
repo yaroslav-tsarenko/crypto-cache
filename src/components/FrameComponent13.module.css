@@ -1,0 +1,326 @@
+.robustDataCenters,
+.serverFeatures {
+  margin: 0;
+  position: relative;
+  font-size: 36px;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.robustDataCenters {
+  align-self: stretch;
+  font-size: inherit;
+  line-height: 32px;
+}
+.yourSystemsWill {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.robustDataCentersParent {
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.scalabilityFocused {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.easilyScaleYour {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.scalabilityFocusedParent {
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.uptimeGuarantee,
+.weEnsureMaximum {
+  align-self: stretch;
+  position: relative;
+}
+.uptimeGuarantee {
+  margin: 0;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.weEnsureMaximum {
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.uptimeGuaranteeParent {
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.lowLatencyConnectivity {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.benefitFromLowLatency {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.frameParent,
+.lowLatencyConnectivityParent {
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.frameParent {
+  width: 1536px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.enhancedSecurity,
+.ourServerSpaces {
+  align-self: stretch;
+  position: relative;
+}
+.enhancedSecurity {
+  margin: 0;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.ourServerSpaces {
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.enhancedSecurityParent {
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.customizationOptions {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.tailorYourHosting {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.customizationOptionsParent {
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.highPoweredInfrastructure {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.ourHostingPackage {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.highPoweredInfrastructureParent {
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.technicalSupport {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.ourExpertSupport {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.frameGroup,
+.technicalSupportParent {
+  width: 325px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.frameGroup {
+  width: 1536px;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.productDetailPageInner,
+.serverFeaturesParent {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.serverFeaturesParent {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20px;
+  gap: 64px;
+}
+.productDetailPageInner {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 64px;
+  text-align: left;
+  font-size: 24px;
+  color: #2e2d2d;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1400px) {
+  .frameGroup,
+  .frameParent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 825px) {
+  .serverFeatures {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .serverFeaturesParent {
+    gap: 32px;
+  }
+  .productDetailPageInner {
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .serverFeatures {
+    font-size: 22px;
+    line-height: 24px;
+  }
+  .robustDataCenters {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .robustDataCentersParent {
+    gap: 16px;
+  }
+  .scalabilityFocused {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .scalabilityFocusedParent {
+    gap: 16px;
+  }
+  .uptimeGuarantee {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .uptimeGuaranteeParent {
+    gap: 16px;
+  }
+  .lowLatencyConnectivity {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .lowLatencyConnectivityParent {
+    gap: 16px;
+  }
+  .enhancedSecurity {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .enhancedSecurityParent {
+    gap: 16px;
+  }
+  .customizationOptions {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .customizationOptionsParent {
+    gap: 16px;
+  }
+  .highPoweredInfrastructure {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .highPoweredInfrastructureParent {
+    gap: 16px;
+  }
+  .technicalSupport {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .serverFeaturesParent,
+  .technicalSupportParent {
+    gap: 16px;
+  }
+}

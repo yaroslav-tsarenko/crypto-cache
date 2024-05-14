@@ -1,0 +1,101 @@
+.enjoyPromotionalDiscount {
+  position: relative;
+  line-height: 24px;
+}
+.banner {
+  align-self: stretch;
+  background-color: #2e2d2d;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 20px;
+}
+.effective20230910,
+.getInTouch,
+.wereHereTo {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.getInTouch {
+  margin: 0;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.effective20230910,
+.wereHereTo {
+  width: 555px;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.effective20230910 {
+  width: 339px;
+  height: 28px;
+  font-size: 18px;
+  line-height: 28px;
+  color: #fff;
+  text-align: left;
+  display: none;
+}
+.contact,
+.getInTouchWithUsParent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  font-family: Montserrat;
+}
+.getInTouchWithUsParent {
+  align-self: stretch;
+  background-color: #f0f0f2;
+  align-items: center;
+  padding: 64px 20px;
+  box-sizing: border-box;
+  gap: 32px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 36px;
+  color: #2e2d2d;
+}
+.contact {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+}
+@media screen and (max-width: 1100px) {
+  .getInTouchWithUsParent {
+    padding-top: 42px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .getInTouch {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .getInTouchWithUsParent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .getInTouch {
+    font-size: 22px;
+    line-height: 24px;
+  }
+  .getInTouchWithUsParent {
+    padding-top: 27px;
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}

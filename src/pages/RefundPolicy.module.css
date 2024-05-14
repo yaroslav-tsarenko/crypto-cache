@@ -1,0 +1,618 @@
+.enjoyPromotionalDiscount {
+  position: relative;
+  line-height: 24px;
+}
+.banner {
+  align-self: stretch;
+  background-color: #2e2d2d;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 20px;
+}
+.refundPolicy1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.refundPolicyInner,
+.refundPolicyWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.refundPolicyWrapper {
+  flex: 1;
+  background-color: #f0f0f2;
+  justify-content: center;
+  padding: 64px 20px;
+}
+.refundPolicyInner {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 64px;
+  font-size: 36px;
+  color: #2e2d2d;
+}
+.eligibilityForRefund {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.eligibilityForRefundContainer {
+  margin: 0;
+  width: 376px;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.refundsAreAvailable {
+  margin-bottom: 0;
+}
+.refundsAreAvailableForServ {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.refundsAreAvailableContainer {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.eligibilityForRefundParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.groundsForRefund,
+.groundsForRefundContainer {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.groundsForRefund {
+  padding-left: 40px;
+}
+.groundsForRefundContainer {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+  display: inline-block;
+  max-width: 100%;
+}
+.refundsMayBe {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.defectiveOrDamaged {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.ifTheServer {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.defectiveOrDamagedHardwareParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.cancellationBeforeActivation {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.ifYouCancel {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.cancellationBeforeActivationParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.serviceOutages {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.inTheEvent {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.frameContainer,
+.groundsForRefundParent,
+.serviceOutagesParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.serviceOutagesParent {
+  gap: 16px;
+}
+.frameContainer,
+.groundsForRefundParent {
+  max-width: 100%;
+}
+.frameContainer {
+  padding: 0 16px;
+  box-sizing: border-box;
+  gap: 16px;
+  font-size: 24px;
+}
+.groundsForRefundParent {
+  gap: 32px;
+}
+.nonEligibilityForRefund {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.nonEligibilityForRefundContainer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.changeOfMind {
+  margin-bottom: 0;
+}
+.changeOfMindRefundsWillN {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.blankLine {
+  margin: 0;
+}
+.exceedingUsageTerms {
+  margin-bottom: 0;
+}
+.exceedingUsageTermsIfYou {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.blankLine1 {
+  margin: 0;
+}
+.terminationDueToViolation {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.changeOfMindContainer {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.nonEligibilityForRefundParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.howToRequestARefund,
+.howToRequestContainer {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.howToRequestARefund {
+  padding-left: 40px;
+}
+.howToRequestContainer {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+  display: inline-block;
+  max-width: 100%;
+}
+.blankLine2,
+.toRequestA {
+  margin: 0;
+}
+.contactOurCustomer {
+  margin-bottom: 0;
+}
+.contactOurCustomerSupportT {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.blankLine3 {
+  margin: 0;
+}
+.provideADetailed {
+  margin-bottom: 0;
+}
+.provideADetailedExplanation {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.blankLine4 {
+  margin: 0;
+}
+.ifApplicableReturnAnyDama {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.toRequestAContainer {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.howToRequestARefundParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.processingTime,
+.processingTime1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.processingTime1 {
+  padding-left: 40px;
+}
+.processingTime {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+}
+.refundsWillBe {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.processingTimeParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.refundMethod,
+.refundMethod1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.refundMethod1 {
+  padding-left: 40px;
+}
+.refundMethod {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+}
+.refundsWillBe1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.refundMethodParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.contactInformation,
+.contactInformation1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contactInformation1 {
+  padding-left: 40px;
+}
+.contactInformation {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+  display: inline-block;
+  max-width: 100%;
+}
+.supportemailcom {
+  color: inherit;
+}
+.forAnyRefundRelatedContainer {
+  align-self: stretch;
+  height: 48px;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+  display: inline-block;
+}
+.contactInformationParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.changesToTheRefundPolicy {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.changesToTheContainer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.weReserveThe {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.changesToTheRefundPolicyParent {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.changesToTheRefundPolicyParent,
+.frameGroup,
+.frameWrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameGroup {
+  width: 900px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 64px;
+}
+.frameWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.frameParent {
+  width: 1536px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 128px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 30px;
+  color: #2e2d2d;
+  font-family: Montserrat;
+}
+.frameParent,
+.refundPolicy,
+.refundPolicyChild {
+  display: flex;
+  align-items: flex-start;
+}
+.refundPolicyChild {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 128px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.refundPolicy {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1300px) {
+  .frameParent {
+    gap: 64px;
+  }
+  .refundPolicyChild {
+    padding-bottom: 54px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .frameGroup {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .refundPolicy1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .changesToTheContainer,
+  .contactInformation,
+  .eligibilityForRefundContainer,
+  .groundsForRefundContainer,
+  .howToRequestContainer,
+  .nonEligibilityForRefundContainer,
+  .processingTime,
+  .refundMethod {
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .frameParent {
+    gap: 32px;
+  }
+  .refundPolicyChild {
+    padding-bottom: 35px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .refundPolicy1 {
+    font-size: 22px;
+    line-height: 24px;
+  }
+  .eligibilityForRefundContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .eligibilityForRefundParent {
+    gap: 16px;
+  }
+  .groundsForRefundContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .cancellationBeforeActivation,
+  .defectiveOrDamaged,
+  .serviceOutages {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .groundsForRefundParent {
+    gap: 16px;
+  }
+  .nonEligibilityForRefundContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .nonEligibilityForRefundParent {
+    gap: 16px;
+  }
+  .howToRequestContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .howToRequestARefundParent {
+    gap: 16px;
+  }
+  .processingTime {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .processingTimeParent {
+    gap: 16px;
+  }
+  .refundMethod {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .refundMethodParent {
+    gap: 16px;
+  }
+  .contactInformation {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .contactInformationParent {
+    gap: 16px;
+  }
+  .changesToTheContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .changesToTheRefundPolicyParent,
+  .frameGroup,
+  .frameParent {
+    gap: 16px;
+  }
+}

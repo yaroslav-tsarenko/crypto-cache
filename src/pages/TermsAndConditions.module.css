@@ -1,0 +1,462 @@
+.enjoyPromotionalDiscount {
+  position: relative;
+  line-height: 24px;
+}
+.banner {
+  align-self: stretch;
+  background-color: #2e2d2d;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 20px;
+}
+.termsAndConditions1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.termsAndConditionsInner,
+.termsAndConditionsWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.termsAndConditionsWrapper {
+  flex: 1;
+  background-color: #f0f0f2;
+  justify-content: center;
+  padding: 64px 20px;
+}
+.termsAndConditionsInner {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 64px;
+  font-size: 36px;
+  color: #2e2d2d;
+}
+.welcomeToCrypto {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+  white-space: pre-wrap;
+}
+.acceptanceOfTerms {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.acceptanceOfTermsContainer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.pleaseReadThese {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.acceptanceOfTermsParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.privacyPolicy,
+.privacyPolicy1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.privacyPolicy1 {
+  padding-left: 40px;
+}
+.privacyPolicy {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+}
+.ourPrivacyPolicy {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.privacyPolicyParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.serviceAvailability,
+.serviceAvailability1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.serviceAvailability1 {
+  padding-left: 40px;
+}
+.serviceAvailability {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+  display: inline-block;
+  max-width: 100%;
+}
+.weStriveTo {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.serviceAvailabilityParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.userConduct,
+.userConduct1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.userConduct1 {
+  padding-left: 40px;
+}
+.userConduct {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+}
+.youAgreeTo {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.userConductParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.termination,
+.termination1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.termination1 {
+  padding-left: 40px;
+}
+.termination {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+}
+.weReserveThe {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.terminationParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.limitationOfLiability {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.limitationOfLiabilityContainer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.toTheFullest {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.limitationOfLiabilityParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.governingLaw,
+.governingLaw1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.governingLaw1 {
+  padding-left: 40px;
+}
+.governingLaw {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+}
+.theseTermsAre {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.governingLawParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.contactUs,
+.contactUs1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contactUs1 {
+  padding-left: 40px;
+}
+.contactUs {
+  width: 240px;
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+  display: inline-block;
+}
+.blankLine,
+.ifYouHave,
+.thankYouFor,
+.weHopeYou {
+  margin: 0;
+}
+.ifYouHaveContainer {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+  text-align: left;
+}
+.contactUsParent,
+.welcomeToCryptoCacheTheseParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contactUsParent {
+  align-self: stretch;
+  gap: 32px;
+  text-align: right;
+}
+.welcomeToCryptoCacheTheseParent {
+  width: 900px;
+  gap: 64px;
+  max-width: 100%;
+}
+.frameWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.frameParent,
+.frameWrapper,
+.termsAndConditionsChild {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameParent {
+  width: 1536px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 128px;
+  text-align: left;
+  font-size: 30px;
+  color: #2e2d2d;
+  font-family: Montserrat;
+}
+.termsAndConditionsChild {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 128px;
+  box-sizing: border-box;
+}
+.termsAndConditions {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1300px) {
+  .frameParent {
+    gap: 64px;
+  }
+  .termsAndConditionsChild {
+    padding-bottom: 54px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .welcomeToCryptoCacheTheseParent {
+    gap: 32px;
+  }
+  .termsAndConditionsChild {
+    padding-bottom: 35px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .termsAndConditions1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .acceptanceOfTermsContainer,
+  .contactUs,
+  .governingLaw,
+  .limitationOfLiabilityContainer,
+  .privacyPolicy,
+  .serviceAvailability,
+  .termination,
+  .userConduct {
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .frameParent {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .termsAndConditions1 {
+    font-size: 22px;
+    line-height: 24px;
+  }
+  .acceptanceOfTermsContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .acceptanceOfTermsParent {
+    gap: 16px;
+  }
+  .privacyPolicy {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .privacyPolicyParent {
+    gap: 16px;
+  }
+  .serviceAvailability {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .serviceAvailabilityParent {
+    gap: 16px;
+  }
+  .userConduct {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .userConductParent {
+    gap: 16px;
+  }
+  .termination {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .terminationParent {
+    gap: 16px;
+  }
+  .limitationOfLiabilityContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .limitationOfLiabilityParent {
+    gap: 16px;
+  }
+  .governingLaw {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .governingLawParent {
+    gap: 16px;
+  }
+  .contactUs {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .contactUsParent,
+  .frameParent,
+  .welcomeToCryptoCacheTheseParent {
+    gap: 16px;
+  }
+  .termsAndConditionsChild {
+    padding-bottom: 23px;
+    box-sizing: border-box;
+  }
+}

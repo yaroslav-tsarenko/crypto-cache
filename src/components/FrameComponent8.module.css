@@ -1,0 +1,56 @@
+.enjoyPromotionalDiscount {
+  position: relative;
+  line-height: 24px;
+}
+.banner {
+  align-self: stretch;
+  background-color: #2e2d2d;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 20px;
+}
+.aboutCryptoCache {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.aboutCryptoCacheWrapper,
+.bannerParent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+}
+.aboutCryptoCacheWrapper {
+  background-color: #f0f0f2;
+  flex-direction: row;
+  justify-content: center;
+  padding: 64px 20px;
+  font-size: 36px;
+  color: #2e2d2d;
+}
+.bannerParent {
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 800px) {
+  .aboutCryptoCache {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .aboutCryptoCache {
+    font-size: 22px;
+    line-height: 24px;
+  }
+}

@@ -1,0 +1,227 @@
+.akarIconscoin {
+  height: 48px;
+  width: 48px;
+  position: relative;
+}
+.cryptocache {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.1em;
+  line-height: 24px;
+  font-weight: 700;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.cryptocacheWrapper,
+.logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 4px 0;
+}
+.logo {
+  flex-direction: row;
+  padding: 8px;
+  gap: 8px;
+}
+.navLink {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 51px;
+}
+.navItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  color: #2e2d2d;
+}
+.navLink1 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 112px;
+  white-space: nowrap;
+}
+.navItem1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+}
+.navLink2 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 50px;
+}
+.navItem2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+}
+.navLink3 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 75px;
+  white-space: nowrap;
+}
+.navItem3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+}
+.navLink4 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 46px;
+}
+.navItem4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+}
+.navLink5 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 64px;
+}
+.navItem5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+}
+.buttonLabel,
+.navItems {
+  font-family: Montserrat;
+  text-align: left;
+}
+.navItems {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+  font-size: 16px;
+  color: #727274;
+}
+.buttonLabel {
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+  color: #2e2d2d;
+  display: inline-block;
+  min-width: 44px;
+  white-space: nowrap;
+}
+.arrowNarrowRightIcon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 8px 0;
+  background-color: transparent;
+  border-radius: 32px 32px 0 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.button1 {
+  height: 40px;
+  flex: 1;
+}
+.buttonParent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.iconBag {
+  height: 36px;
+  width: 36px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameParent,
+.navBar,
+.navBarInner {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.frameParent {
+  flex: 1;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.navBar,
+.navBarInner {
+  box-sizing: border-box;
+}
+.navBarInner {
+  width: 208px;
+  justify-content: flex-start;
+  padding: 12px 0;
+}
+.navBar {
+  align-self: stretch;
+  background-color: #f0f0f2;
+  justify-content: space-between;
+  padding: 16px 192px;
+  max-width: 100%;
+  gap: 20px;
+  text-align: left;
+  font-size: 32px;
+  color: #2e2d2d;
+  font-family: "Space Mono";
+}
+@media screen and (max-width: 1300px) {
+  .navBar {
+    padding-left: 96px;
+    padding-right: 96px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .navBar {
+    padding-left: 48px;
+    padding-right: 48px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .navBar {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

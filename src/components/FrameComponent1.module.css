@@ -1,0 +1,124 @@
+.cryptocacheFeaturesThat,
+.cryptocurrencyMining {
+  margin: 0;
+}
+.cryptocacheFeaturesThatContainer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.welcomeToCryptocache {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.cryptocacheFeaturesThatRedParent {
+  width: 1038px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.securityContainers,
+.securityContainers1,
+.securityContainers2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.frameParent,
+.homeInner,
+.securityContainersParent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.securityContainersParent {
+  width: 1536px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  text-align: left;
+  font-size: 24px;
+}
+.frameParent,
+.homeInner {
+  box-sizing: border-box;
+}
+.frameParent {
+  flex: 1;
+  background-color: #f0f0f2;
+  flex-direction: column;
+  align-items: center;
+  padding: 128px 20px;
+  gap: 64px;
+}
+.homeInner {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 128px;
+  text-align: center;
+  font-size: 36px;
+  color: #2e2d2d;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1200px) {
+  .frameParent {
+    padding-top: 83px;
+    padding-bottom: 83px;
+    box-sizing: border-box;
+  }
+  .homeInner {
+    padding-bottom: 54px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .cryptocacheFeaturesThatContainer {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .cryptocacheFeaturesThatRedParent,
+  .securityContainers,
+  .securityContainers1,
+  .securityContainers2,
+  .securityContainersParent {
+    gap: 16px;
+  }
+  .frameParent {
+    gap: 32px;
+    padding-top: 54px;
+    padding-bottom: 54px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cryptocacheFeaturesThatContainer {
+    font-size: 22px;
+    line-height: 24px;
+  }
+  .frameParent {
+    gap: 16px;
+    padding-top: 35px;
+  }
+  .frameParent,
+  .homeInner {
+    padding-bottom: 35px;
+    box-sizing: border-box;
+  }
+}

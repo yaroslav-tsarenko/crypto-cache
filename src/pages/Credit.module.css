@@ -1,0 +1,153 @@
+.enjoyPromotionalDiscount {
+  position: relative;
+  line-height: 24px;
+}
+.banner {
+  align-self: stretch;
+  background-color: #2e2d2d;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 20px;
+}
+.credit1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 116px;
+}
+.creditWrapper,
+.creditsInfo {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.creditWrapper {
+  flex: 1;
+  background-color: #f0f0f2;
+  justify-content: center;
+  padding: 64px 20px;
+}
+.creditsInfo {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 64px;
+  text-align: left;
+  font-size: 36px;
+  color: #2e2d2d;
+  font-family: Montserrat;
+}
+.hostingPackages,
+.sortBy {
+  position: relative;
+  line-height: 28px;
+}
+.sortBy {
+  line-height: 24px;
+  display: inline-block;
+  min-width: 57px;
+}
+.defaultOption {
+  height: 40px;
+  flex: 1;
+  font-family: Montserrat;
+  font-size: 14px;
+  color: #727274;
+  width: auto;
+}
+.sortDropdown,
+.sorter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.sortDropdown {
+  width: 253px;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 16px;
+}
+.sorter {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.sorterParent {
+  width: 1536px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.credit,
+.packageSorter {
+  display: flex;
+  align-items: flex-start;
+  text-align: left;
+  font-family: Montserrat;
+}
+.packageSorter {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 128px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 18px;
+  color: #2e2d2d;
+}
+.credit {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  font-size: 16px;
+  color: #fff;
+}
+@media screen and (max-width: 1300px) {
+  .packageSorter {
+    padding-bottom: 83px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .packageSorter {
+    padding-bottom: 54px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .credit1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .sorterParent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .credit1 {
+    font-size: 22px;
+    line-height: 24px;
+  }
+  .sorter {
+    flex-wrap: wrap;
+  }
+  .packageSorter {
+    padding-bottom: 35px;
+    box-sizing: border-box;
+  }
+}

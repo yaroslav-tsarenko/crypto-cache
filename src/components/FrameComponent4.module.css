@@ -1,0 +1,134 @@
+.inCryptocurrencyMining,
+.whereSecurityMeets {
+  margin: 0;
+}
+.whereSecurityMeetsContainer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 52px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.cryptocacheIsYour {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.button {
+  height: 56px;
+  flex: 1;
+}
+.button1 {
+  align-self: stretch;
+  flex: 1;
+}
+.buttonParent,
+.whereSecurityMeetsSuccessIParent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.buttonParent {
+  width: 327px;
+  height: 56px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 16px;
+}
+.whereSecurityMeetsSuccessIParent {
+  width: 932px;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+}
+.frameWrapper,
+.image6NoBg {
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.frameWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.image6NoBg {
+  width: 660px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  debug_commit: 1de1738;
+}
+.homeInner,
+.image6NoBgWrapper,
+.navBarParent {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image6NoBgWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 21px 0 20px;
+}
+.homeInner,
+.navBarParent {
+  justify-content: flex-start;
+}
+.navBarParent {
+  height: 940px;
+  flex: 1;
+  background-color: #f0f0f2;
+  flex-direction: column;
+  padding: 0 0 476px;
+  gap: 48px;
+}
+.homeInner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 16px;
+  text-align: center;
+  font-size: 48px;
+  color: #2e2d2d;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1200px) {
+  .navBarParent {
+    padding-bottom: 201px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .whereSecurityMeetsContainer {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .whereSecurityMeetsSuccessIParent {
+    gap: 16px;
+  }
+  .navBarParent {
+    gap: 24px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .whereSecurityMeetsContainer {
+    font-size: 29px;
+    line-height: 31px;
+  }
+  .navBarParent {
+    padding-bottom: 131px;
+    box-sizing: border-box;
+  }
+}

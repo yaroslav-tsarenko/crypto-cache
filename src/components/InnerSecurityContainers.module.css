@@ -1,0 +1,61 @@
+.iconShield {
+  width: 60px;
+  height: 60px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.advancedSecurityMeasures {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.atCryptocacheYour {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.innerSecurityContainers,
+.titleContainers {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.titleContainers {
+  align-self: stretch;
+  gap: 16px;
+}
+.innerSecurityContainers {
+  flex: 1;
+  border-radius: 8px;
+  background-color: #fff;
+  padding: 32px;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 564px;
+  text-align: left;
+  font-size: 24px;
+  color: #2e2d2d;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 825px) {
+  .innerSecurityContainers {
+    gap: 16px;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .advancedSecurityMeasures {
+    font-size: 19px;
+    line-height: 26px;
+  }
+}

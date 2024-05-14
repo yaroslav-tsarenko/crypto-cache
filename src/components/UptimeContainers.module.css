@@ -1,0 +1,55 @@
+.iconCheckFilled {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.innerUptimeContainers {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.reliableUptime {
+  position: relative;
+  line-height: 28px;
+}
+.uptimeTitles {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.cryptocacheGuarantees999 {
+  align-self: stretch;
+  position: relative;
+  font-size: 14px;
+  line-height: 20px;
+  color: #727274;
+  text-align: center;
+}
+.uptimeContainers {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  min-width: 298px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 20px;
+  color: #2e2d2d;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 450px) {
+  .reliableUptime {
+    font-size: 16px;
+    line-height: 22px;
+  }
+}

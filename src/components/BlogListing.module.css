@@ -1,0 +1,84 @@
+.blogListingChild,
+.theRoleOf {
+  align-self: stretch;
+  position: relative;
+}
+.blogListingChild {
+  height: 210px;
+  border-radius: 8px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.theRoleOf {
+  line-height: 28px;
+}
+.theRoleOfFullNodesInBlocWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.avatarIcon {
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+  object-fit: cover;
+  min-height: 40px;
+}
+.kennedyJackson {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 123px;
+}
+.supportingText {
+  position: relative;
+  font-size: 12px;
+  line-height: 16px;
+  color: #727274;
+}
+.kennedyJacksonParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.avatarParent,
+.blogListing,
+.frameParent {
+  display: flex;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.avatarParent {
+  flex-direction: row;
+  align-items: center;
+  font-size: 14px;
+}
+.blogListing,
+.frameParent {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frameParent {
+  align-self: stretch;
+}
+.blogListing {
+  width: 485px;
+  border-radius: 16px;
+  min-width: 461px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #2e2d2d;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 800px) {
+  .blogListing {
+    min-width: 100%;
+  }
+}

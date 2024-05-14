@@ -1,0 +1,112 @@
+.iconTick {
+  width: 27.7px;
+  height: 27.7px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.iconTickWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.2px 0 0;
+}
+.performance,
+.reliable {
+  margin: 0;
+}
+.reliablePerformance {
+  position: relative;
+  line-height: 28px;
+}
+.frameGroup {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.iconTick1 {
+  width: 27.7px;
+  height: 27.7px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.iconTickContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.2px 0 0;
+}
+.expert,
+.support {
+  margin: 0;
+}
+.expertSupport {
+  position: relative;
+  line-height: 28px;
+}
+.frameContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11.9px;
+}
+.iconTick2 {
+  width: 27.7px;
+  height: 27.7px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.iconTickFrame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 14.2px 0 0;
+}
+.assured,
+.security {
+  margin: 0;
+}
+.securityAssured {
+  position: relative;
+  line-height: 28px;
+}
+.frameDiv,
+.frameParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.frameParent {
+  box-shadow: 6.1px 6.7px 33.75px rgba(0, 0, 0, 0.1);
+  border-radius: 10.8px;
+  background-color: #2e2d2d;
+  justify-content: center;
+  padding: 32px 64px;
+  box-sizing: border-box;
+  gap: 32px;
+  max-width: 100%;
+  z-index: 1;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 825px) {
+  .frameParent {
+    flex-wrap: wrap;
+    gap: 16px;
+    padding-left: 32px;
+    padding-right: 32px;
+    box-sizing: border-box;
+  }
+}

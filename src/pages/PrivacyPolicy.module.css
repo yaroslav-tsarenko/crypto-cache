@@ -1,0 +1,574 @@
+.enjoyPromotionalDiscount {
+  position: relative;
+  line-height: 24px;
+}
+.banner {
+  align-self: stretch;
+  background-color: #2e2d2d;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 20px;
+}
+.privacyPolicy1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.privacyPolicyInner,
+.privacyPolicyWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.privacyPolicyWrapper {
+  flex: 1;
+  background-color: #f0f0f2;
+  justify-content: center;
+  padding: 64px 20px;
+}
+.privacyPolicyInner {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 64px;
+  font-size: 36px;
+  color: #2e2d2d;
+}
+.cryptoCacheWe {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.informationWeCollect {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.informationWeCollectContainer,
+.personalInformation {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.informationWeCollectContainer {
+  line-height: 36px;
+  display: inline-block;
+  max-width: 100%;
+}
+.personalInformation {
+  line-height: 32px;
+}
+.weMayCollect {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.personalInformationParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.usageInformation {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.weAutomaticallyCollect {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.usageInformationParent {
+  gap: 16px;
+}
+.frameGroup,
+.informationWeCollectParent,
+.usageInformationParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameGroup {
+  gap: 16px;
+  font-size: 24px;
+}
+.informationWeCollectParent {
+  gap: 32px;
+  max-width: 100%;
+}
+.howWeUseYourInformation {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.howWeUseContainer,
+.providingServices {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.howWeUseContainer {
+  line-height: 36px;
+  display: inline-block;
+  max-width: 100%;
+}
+.providingServices {
+  line-height: 32px;
+}
+.weUseYour {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.providingServicesParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.communication {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.weMayUse {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.communicationParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.analytics {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.weUseAnalytics {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.analyticsParent {
+  gap: 16px;
+}
+.analyticsParent,
+.frameContainer,
+.howWeUseYourInformationParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameContainer {
+  gap: 16px;
+  font-size: 24px;
+}
+.howWeUseYourInformationParent {
+  gap: 32px;
+  max-width: 100%;
+}
+.dataSecurity,
+.dataSecurity1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.dataSecurity1 {
+  padding-left: 40px;
+}
+.dataSecurity {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+}
+.weTakeReasonable {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.dataSecurityParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.thirdPartyServices,
+.thirdPartyServices1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.thirdPartyServices1 {
+  padding-left: 40px;
+}
+.thirdPartyServices {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+  display: inline-block;
+  max-width: 100%;
+}
+.weMayUse1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.thirdPartyServicesParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.cookiesAndTrackingTechnolog {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.cookiesAndTrackingContainer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.weUseCookies {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.cookiesAndTrackingTechnologParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.yourChoices,
+.yourChoices1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.yourChoices1 {
+  padding-left: 40px;
+}
+.yourChoices {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+}
+.youHaveThe {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.yourChoicesParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.changesToThisPrivacyPolicy {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.changesToThisContainer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.weMayUpdate {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.changesToThisPrivacyPolicyParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.contactUs,
+.contactUs1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contactUs1 {
+  padding-left: 40px;
+}
+.contactUs {
+  width: 276px;
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+  display: inline-block;
+}
+.blankLine,
+.byUsingOur,
+.ifYouHave {
+  margin: 0;
+}
+.ifYouHaveContainer {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.contactUsParent,
+.cryptoCacheWeUsOrParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contactUsParent {
+  align-self: stretch;
+  gap: 32px;
+}
+.cryptoCacheWeUsOrParent {
+  width: 900px;
+  gap: 64px;
+  max-width: 100%;
+}
+.frameWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.frameParent,
+.frameWrapper,
+.privacyPolicyChild {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameParent {
+  width: 1536px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 128px;
+  text-align: left;
+  font-size: 30px;
+  color: #2e2d2d;
+  font-family: Montserrat;
+}
+.privacyPolicyChild {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 128px;
+  box-sizing: border-box;
+}
+.privacyPolicy {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1300px) {
+  .frameParent {
+    gap: 64px;
+  }
+  .privacyPolicyChild {
+    padding-bottom: 54px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .cryptoCacheWeUsOrParent {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .privacyPolicy1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .changesToThisContainer,
+  .contactUs,
+  .cookiesAndTrackingContainer,
+  .dataSecurity,
+  .howWeUseContainer,
+  .informationWeCollectContainer,
+  .thirdPartyServices,
+  .yourChoices {
+    font-size: 24px;
+    line-height: 29px;
+  }
+  .frameParent {
+    gap: 32px;
+  }
+  .privacyPolicyChild {
+    padding-bottom: 35px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .privacyPolicy1 {
+    font-size: 22px;
+    line-height: 24px;
+  }
+  .informationWeCollectContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .personalInformation,
+  .usageInformation {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .informationWeCollectParent {
+    gap: 16px;
+  }
+  .howWeUseContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .analytics,
+  .communication,
+  .providingServices {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .howWeUseYourInformationParent {
+    gap: 16px;
+  }
+  .dataSecurity {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .dataSecurityParent {
+    gap: 16px;
+  }
+  .thirdPartyServices {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .thirdPartyServicesParent {
+    gap: 16px;
+  }
+  .cookiesAndTrackingContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .cookiesAndTrackingTechnologParent {
+    gap: 16px;
+  }
+  .yourChoices {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .yourChoicesParent {
+    gap: 16px;
+  }
+  .changesToThisContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .changesToThisPrivacyPolicyParent {
+    gap: 16px;
+  }
+  .contactUs {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .contactUsParent,
+  .cryptoCacheWeUsOrParent,
+  .frameParent {
+    gap: 16px;
+  }
+}

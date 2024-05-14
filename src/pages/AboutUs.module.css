@@ -1,0 +1,362 @@
+.blankLine,
+.watchTheVideo,
+.welcomeToCryptocache {
+  margin: 0;
+}
+.welcomeToCryptocacheContainer {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+}
+.frameChild {
+  align-self: stretch;
+  height: 500px;
+  position: relative;
+  border-radius: 8px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameWrapper,
+.welcomeToCryptocacheYourTParent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.welcomeToCryptocacheYourTParent {
+  width: 923px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.frameWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 16px;
+  color: #727274;
+}
+.ourMission {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.ourMissionIs {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.frameContainer,
+.ourMissionParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ourMissionParent {
+  align-self: stretch;
+  gap: 32px;
+}
+.frameContainer {
+  width: 653px;
+  padding: 154px 0 0;
+  box-sizing: border-box;
+  min-width: 653px;
+  max-width: 100%;
+}
+.frameItem {
+  height: 500px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 455px;
+}
+.frameGroup {
+  align-self: stretch;
+  background-color: #f0f0f2;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 64px;
+  box-sizing: border-box;
+  gap: 119px;
+  max-width: 100%;
+}
+.frameInner {
+  width: 700px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.whoWeAre {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.cryptocacheWasFounded {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.whoWeAreParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.frameDiv,
+.rectangleParent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameDiv {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 154px 0 0;
+  box-sizing: border-box;
+  min-width: 473px;
+}
+.rectangleParent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  gap: 109px;
+}
+.whatSetsUs {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.atCryptocacheWe {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.frameWrapper1,
+.whatSetsUsApartParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.whatSetsUsApartParent {
+  align-self: stretch;
+  gap: 32px;
+}
+.frameWrapper1 {
+  width: 643px;
+  padding: 142px 0 0;
+  box-sizing: border-box;
+  min-width: 643px;
+}
+.rectangleIcon {
+  height: 500px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 455px;
+}
+.frameParent1 {
+  align-self: stretch;
+  background-color: #f0f0f2;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 64px;
+  box-sizing: border-box;
+  gap: 129px;
+  max-width: 100%;
+}
+.frameParent {
+  width: 1536px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 128px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 36px;
+  color: #2e2d2d;
+  font-family: Montserrat;
+}
+.aboutUs,
+.aboutUsInner,
+.frameParent {
+  display: flex;
+  align-items: flex-start;
+}
+.aboutUsInner {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 64px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.aboutUs {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 64px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1300px) {
+  .frameContainer {
+    flex: 1;
+  }
+  .frameGroup {
+    flex-wrap: wrap;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .frameInner {
+    flex: 1;
+  }
+  .rectangleParent {
+    flex-wrap: wrap;
+  }
+  .frameWrapper1 {
+    flex: 1;
+  }
+  .frameParent1 {
+    flex-wrap: wrap;
+    gap: 64px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .frameParent {
+    gap: 64px;
+  }
+  .aboutUsInner {
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .frameContainer {
+    min-width: 100%;
+  }
+  .aboutUs {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .ourMission {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .ourMissionParent {
+    gap: 16px;
+  }
+  .frameItem {
+    min-width: 100%;
+  }
+  .frameGroup {
+    gap: 59px;
+  }
+  .whoWeAre {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .whoWeAreParent {
+    gap: 16px;
+  }
+  .frameDiv {
+    min-width: 100%;
+  }
+  .rectangleParent {
+    gap: 54px;
+  }
+  .whatSetsUs {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .whatSetsUsApartParent {
+    gap: 16px;
+  }
+  .frameWrapper1,
+  .rectangleIcon {
+    min-width: 100%;
+  }
+  .frameParent,
+  .frameParent1 {
+    gap: 32px;
+  }
+  .aboutUsInner {
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .aboutUs {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .welcomeToCryptocacheYourTParent {
+    gap: 16px;
+  }
+  .ourMission {
+    font-size: 22px;
+    line-height: 24px;
+  }
+  .frameGroup {
+    gap: 30px;
+  }
+  .whoWeAre {
+    font-size: 22px;
+    line-height: 24px;
+  }
+  .rectangleParent {
+    gap: 27px;
+  }
+  .whatSetsUs {
+    font-size: 22px;
+    line-height: 24px;
+  }
+  .frameWrapper1 {
+    padding-top: 92px;
+    box-sizing: border-box;
+  }
+  .frameParent,
+  .frameParent1 {
+    gap: 16px;
+  }
+}

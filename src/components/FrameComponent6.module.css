@@ -1,0 +1,379 @@
+.cancellationOfServerHardwar {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.cancellationOfServerContainer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.ordersForServer {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.cancellationOfServerHardwarParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.cancellationOfServicePlans {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.cancellationOfServiceContainer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.servicePlansIncluding {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.cancellationOfServicePlansParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.cancellationProcess,
+.cancellationProcess1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.cancellationProcess1 {
+  padding-left: 40px;
+}
+.cancellationProcess {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+  display: inline-block;
+  max-width: 100%;
+}
+.blankLine,
+.toRequestA {
+  margin: 0;
+}
+.contactOurCustomer {
+  margin-bottom: 0;
+}
+.contactOurCustomerSupportT {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.blankLine1 {
+  margin: 0;
+}
+.provideADetailedExplanation {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.toRequestAContainer {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.cancellationProcessParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.eligibilityForRefund {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.eligibilityForRefundContainer {
+  margin: 0;
+  width: 376px;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.dependingOnThe {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.eligibilityForRefundParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.refundMethod,
+.refundMethod1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.refundMethod1 {
+  padding-left: 40px;
+}
+.refundMethod {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+}
+.ifARefund {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.refundMethodParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.nonEligibilityForCancellati {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.nonEligibilityForCancellatiContainer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.someServicesMay {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.nonEligibilityForCancellatiParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.changesToTheCancellationPo {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 40px;
+}
+.changesToTheContainer {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.weReserveThe {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.changesToTheCancellationPoParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.contactInformation,
+.contactInformation1 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contactInformation1 {
+  padding-left: 40px;
+}
+.contactInformation {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+  display: inline-block;
+  max-width: 100%;
+}
+.supportemailcom {
+  color: inherit;
+}
+.forAnyCancellationRelatedContainer {
+  align-self: stretch;
+  height: 48px;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+  display: inline-block;
+}
+.contactInformationParent {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.contactInformationParent,
+.frameParent,
+.frameWrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameParent {
+  width: 900px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 64px;
+}
+.frameWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 30px;
+  color: #2e2d2d;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1100px) {
+  .frameParent {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .cancellationOfServerContainer,
+  .cancellationOfServiceContainer,
+  .cancellationProcess,
+  .changesToTheContainer,
+  .contactInformation,
+  .eligibilityForRefundContainer,
+  .nonEligibilityForCancellatiContainer,
+  .refundMethod {
+    font-size: 24px;
+    line-height: 29px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cancellationOfServerContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .cancellationOfServerHardwarParent {
+    gap: 16px;
+  }
+  .cancellationOfServiceContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .cancellationOfServicePlansParent {
+    gap: 16px;
+  }
+  .cancellationProcess {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .cancellationProcessParent {
+    gap: 16px;
+  }
+  .eligibilityForRefundContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .eligibilityForRefundParent {
+    gap: 16px;
+  }
+  .refundMethod {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .refundMethodParent {
+    gap: 16px;
+  }
+  .nonEligibilityForCancellatiContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .nonEligibilityForCancellatiParent {
+    gap: 16px;
+  }
+  .changesToTheContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .changesToTheCancellationPoParent {
+    gap: 16px;
+  }
+  .contactInformation {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .contactInformationParent,
+  .frameParent {
+    gap: 16px;
+  }
+}

@@ -1,0 +1,302 @@
+.fullServerSpecification {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.fullServerSpecificationWrapper {
+  width: 1360px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 1px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.processorCpu {
+  margin: 0;
+}
+.clockSpeedsTailored,
+.dualIntelXeon,
+.highCoreCount {
+  margin-bottom: 0;
+}
+.dualIntelXeonScalableProce {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.blankLine,
+.memoryRam {
+  margin: 0;
+}
+.errorCorrectingCodeEcc,
+.minimum64gbEcc,
+.supportForHighSpeed {
+  margin-bottom: 0;
+}
+.minimum64gbEccDdr4RamExp {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.blankLine1,
+.storage {
+  margin: 0;
+}
+.minimum1tbSsd,
+.multipleDriveBays,
+.raidSupportFor {
+  margin-bottom: 0;
+}
+.multipleDriveBaysForFlexib {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.blankLine2,
+.networkInterface {
+  margin: 0;
+}
+.dualGigabitEthernet,
+.optional10gbeOr {
+  margin-bottom: 0;
+}
+.dualGigabitEthernetOrHighe {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.processorCpuDualContainer {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+}
+.processorCpuDualIntelXeWrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+  box-sizing: border-box;
+  min-width: 390px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.frameChild {
+  height: 506px;
+  width: 2px;
+  position: relative;
+  border-right: 2px solid #fff;
+  box-sizing: border-box;
+}
+.expansionSlots {
+  margin: 0;
+}
+.pcieSlotsFor,
+.supportForVarious {
+  margin-bottom: 0;
+}
+.pcieSlotsForAdditionalConn {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.blankLine3,
+.operatingSystem {
+  margin: 0;
+}
+.choiceOfOperating,
+.compatibilityWithVirtualizat {
+  margin-bottom: 0;
+}
+.choiceOfOperatingSystemsI {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.blankLine4,
+.remoteManagement {
+  margin: 0;
+}
+.integratedRemoteManagement,
+.remoteConsoleAccess {
+  margin-bottom: 0;
+}
+.integratedRemoteManagementC {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.blankLine5,
+.cooling {
+  margin: 0;
+}
+.highEfficiencyCoolingSystem1,
+.redundantCoolingFans {
+  margin-bottom: 0;
+}
+.highEfficiencyCoolingSystem {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.expansionSlotsPcieContainer {
+  height: 504px;
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 390px;
+  max-width: 100%;
+}
+.frameDiv,
+.frameItem {
+  position: absolute;
+  left: 0;
+}
+.frameDiv {
+  top: 0;
+  border-radius: 16px;
+  background-color: #2e2d2d;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 32px;
+  box-sizing: border-box;
+  gap: 47px;
+  max-width: 100%;
+}
+.frameItem {
+  top: 185px;
+  background: linear-gradient(0deg, #2e2d2d, rgba(46, 45, 45, 0));
+  width: 1360px;
+  height: 439px;
+  z-index: 1;
+}
+.frameContainer {
+  align-self: stretch;
+  height: 624px;
+  position: relative;
+  max-width: 100%;
+}
+.button {
+  align-self: stretch;
+  width: 182px;
+}
+.buttonWrapper {
+  align-self: stretch;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.frameGroup,
+.frameParent,
+.productDetailPageInner {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameGroup {
+  width: 1360px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 41px;
+  font-size: 16px;
+}
+.frameParent,
+.productDetailPageInner {
+  box-sizing: border-box;
+}
+.frameParent {
+  flex: 1;
+  background-color: #2e2d2d;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 64px 20px;
+  gap: 64px;
+}
+.productDetailPageInner {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 64px;
+  text-align: left;
+  font-size: 36px;
+  color: #fff;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 1200px) {
+  .frameChild {
+    width: 100px;
+    height: 2px;
+    border-top: 2px solid #fff;
+    box-sizing: border-box;
+  }
+  .frameContainer {
+    height: auto;
+    min-height: 624;
+  }
+  .frameParent {
+    padding-top: 42px;
+  }
+  .frameParent,
+  .productDetailPageInner {
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .fullServerSpecification {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .expansionSlotsPcieContainer,
+  .processorCpuDualIntelXeWrapper {
+    min-width: 100%;
+  }
+  .frameDiv {
+    gap: 23px;
+  }
+  .frameGroup {
+    gap: 20px;
+  }
+  .frameParent {
+    gap: 32px;
+    padding-top: 27px;
+  }
+  .frameParent,
+  .productDetailPageInner {
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .fullServerSpecification {
+    font-size: 22px;
+    line-height: 24px;
+  }
+  .frameParent {
+    gap: 16px;
+  }
+}

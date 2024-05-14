@@ -1,0 +1,103 @@
+.useOfServices,
+.useOfServicesContainer {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.useOfServices {
+  padding-left: 40px;
+}
+.useOfServicesContainer {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+}
+.pleaseReadThese {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.eligibility {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.toUseOur {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.eligibilityParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.accountCreation {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.someOfOur {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #727274;
+}
+.accountCreationParent {
+  gap: 16px;
+}
+.accountCreationParent,
+.frameParent,
+.useOfServicesParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent {
+  padding: 0 16px;
+  gap: 16px;
+  font-size: 24px;
+}
+.useOfServicesParent {
+  gap: 32px;
+  text-align: left;
+  font-size: 30px;
+  color: #2e2d2d;
+  font-family: Montserrat;
+}
+@media screen and (max-width: 800px) {
+  .useOfServicesContainer {
+    font-size: 24px;
+    line-height: 29px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .useOfServicesContainer {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .accountCreation,
+  .eligibility {
+    font-size: 19px;
+    line-height: 26px;
+  }
+  .useOfServicesParent {
+    gap: 16px;
+  }
+}
